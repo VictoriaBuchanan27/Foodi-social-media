@@ -1,8 +1,8 @@
-## FOODI
+# FOODi
 
-In the project directory, you can run:
+Foodi is a social media platform designed to help people who have redefined their interest for food as a fun hobby and a way to connect with those around them who also want to explore the world of luxurious food dining experiences. 
 
-### `npm start`
+## Wireframes
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
