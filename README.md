@@ -21,4 +21,4 @@ Creating a New Post :
 Followers / Following Search List Page :
 ![Screen Shot 2019-03-21 at 8 14 05 PM](https://user-images.githubusercontent.com/39134523/54792959-b1f31480-4c16-11e9-8ff4-a681e6037454.png)
 
-Notifications Page :
+
