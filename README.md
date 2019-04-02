@@ -1,7 +1,7 @@
 # FOODi
  ![LOGO](https://user-images.githubusercontent.com/39134523/55280869-e2673c80-5301-11e9-97cb-2d6e5a0f8965.png)
 
-Foodi is a social media platform designed to help people who have redefined their interest for food as a fun hobby and a way to connect with those around them who also want to explore the world of luxurious food dining experiences. 
+Foodi is a NEW social media platform designed to redefined the customer dining experience. Customers can now post reviews and photos of their luxury dining experiences as a fun way to connect with those around them who are natural born foodi's. 
 
 ## Wireframes
 Login Page :
